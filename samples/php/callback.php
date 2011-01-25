@@ -7,7 +7,7 @@
 
 // Please make sure to REPLACE the value of VERIFY_TOKEN 'abc' with 
 // your own secret string. This is the value to pass to Facebook 
-//  when add/modify this subscription.
+//  when adding/modifying this subscription.
 define('VERIFY_TOKEN', 'abc');                                    
 $method = $_SERVER['REQUEST_METHOD'];                             
    
