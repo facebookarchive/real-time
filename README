@@ -1,2 +1,12 @@
+Archived Repo
+=============
+This is an archived project and is no longer supported or updated by Facebook. 
+Please do not file issues or pull-requests against this repo. If you wish to 
+continue to develop this code, we recommend you fork it.
+
+Proceed and be bold!
+
+------
+
 This project contains code samples for using Facebook real-time updates.
 See http://developers.facebook.com/docs/api/realtime to documentation.
